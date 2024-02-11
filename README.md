@@ -14,9 +14,8 @@
 
 <p align="left"> <a href="https://twitter.com/danishabdullaah" target="blank"><img src="https://img.shields.io/twitter/follow/danishabdullaah?logo=twitter&style=for-the-badge" alt="danishabdullaah" /></a> </p>
 
-- 🔭 I’m currently working on **Personal portfilio**
 
-- 🌱 I’m currently learning **Javascript ,web3**
+- 🌱 I’m currently learning **Backend (Node.js, Prisma , Serverless Db , Nextjs14)**
 
 - 📫 How to reach me **https://www.linkedin.com/in/danish-abdullah-268214214/**
 
